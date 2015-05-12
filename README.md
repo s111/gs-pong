@@ -42,7 +42,7 @@ Now create this folder structure:
 ```sh
 pong/bin
 ```
-Copy ```game.json```, ```screenshots.png``` and the ```controller``` folder into the ```pong``` folder. Copy the ```target/natives``` folder into it too and rename it to ```lib```. Now copy the jar file in the ```target``` folder into the ```pong/bin``` folder and rename it to ```pong.jar```.
+Copy ```game.json```, ```screenshot.png``` and the ```controller``` folder into the ```pong``` folder. Copy the ```target/natives``` folder into it too and rename it to ```lib```. Now copy the jar file in the ```target``` folder into the ```pong/bin``` folder and rename it to ```pong.jar```.
 
 You should now have a folder named ```pong``` which looks something like this:
 ```
